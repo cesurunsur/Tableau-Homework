@@ -1,0 +1,7 @@
+The number of riders using the Citi bike from 10 AM to 4 PM was higher than I expected. To figure out the reasons for this phenomenon, I further dug data. After splitting the data for Daily Rides by Hours into two specific data, one for Weekday Whole Day Rides and the other for Weekends, I found out that the pattern of the rides on weekends was completely opposite than those on weekdays. 
+
+
+What surprised me was that there were so many rides that were longer than 4 hours. I would like to know more detailed information regarding the duration of using the Citi bikes. For example, I would like to investigate how many of the users are tourists, whether the users actually use the bike for that long hours or they simply keep it because there are no enough bike stations nearby, or if there are technical difficulties in tracking systems to process return requests. Therefore, there are uncertain areas that need further explanations. 
+
+I would like to know how the Citi bikes are managed. With this respect, I have a couple of questions: Is there any mechanism to track the actual distance each bike runs, regardless of the renting hours? Do all bikes have a regular maintenance, for instance, brakes, chain, tires, and so forth. Since bikes are worn out once they are used, maintenance is important for the safety of everyone in public.
+
