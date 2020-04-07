@@ -1,20 +1,51 @@
-	The number of riders using the Citi bike from 10 AM to 4 PM was higher than I expected.
-To figure out the reasons for this phenomenon, I further dug data. After splitting the data for
-Daily Rides by Hours into two specific data, one for Weekday Whole Day Rides and the other for 
-Weekends, I found out that the pattern of the rides on weekends was completely opposite than 
-those on weekdays. 
+Rides Dashboard :
+In the analysis, Winter’s and Summer’s data were used to find out if there were 
+any  differences between seasons. In addition, the analysis showed the total 
+rides in 2019. It was expected that the number of rides in Winter would be 
+less than that in Summer or other seasons because of the weather. It turned out
+that the number of riders was 50 percent higher in Winter than in Summer season.  
 
+2019 Rides Dashboard :
+This slides (this slide? Or these slides) (was) were expecting to find daily trends
+of the rides. The number of riders using the Citi bike from 10 AM to 4 PM was higher
+than I expected. To figure out the reasons for this phenomenon, I further dug data. 
+After splitting the data for Daily Rides by Hours into two specific data, one for 
+Weekday Whole Day Rides and the other for Weekends, I found out that the pattern of 
+the rides on weekends was completely opposite than that on weekdays. Further, the 
+popular starting point in Summer season was shown in the dashboard.
+ 
+Starting, Ending Stations and Popular Routes Story :
+In New York City, the biggest problem is land. Some stations would not have enough 
+spots for bikes to be picked up or dropped off in rush hours. The analysis was utilized
+to find out if there were any trends in the morning’s or afternoon’s rush hours. There
+are four map slides. Each slide has a filter on the side to find if there are any trends
+based on the stations. The first map was created to find out the trend for the starting 
+stations in terms of whether or not extra bikes might be needed some time during the day. 
+The second map was used to point out if some bikes have to be relocated to the other 
+stations some time during theday. The third slide targeted to find out the popular routes.
+This slide can also be analyzed to explore if there are any reasons that riders have taken
+to these specific routes. For example, the riders might have considered a distance between
+the subway stations or bus stops, or any other considerations . The last slide was developed
+to find out if there were any trends by the trip duration. 
 
-	What surprised me was that there were so many rides that were longer than 4 hours. I 
-would like to know more detailed information regarding the duration of using the Citi bikes.
+Bikes Total Duration :
+In this slide, the total trip duration was used to examine how much each bike has been used 
+by riders based on (bikes’ ID). It also could be used to find out which bikes would need a 
+maintenance or replacement with a new one.
+The last story was to address gender, age, and customer type distribution. Each slide has a 
+filter on the side based on what we would like to know. After reviewing these distributions, 
+the Citi bike company can focus on different age, gender, or type of customer groups to 
+promote people to use their bikes more frequently.
+ 
+And there are two following questions I would like to address. 
+What surprised me was that there were so many rides that were longer than 4 hours. I would
+like to know more detailed information regarding the duration of using the Citi bikes. 
 For example, I would like to investigate how many of the users are tourists, whether the users 
 actually use the bike for that long hours or they simply keep it because there are no enough 
 bike stations nearby, or if there are technical difficulties in tracking systems to process 
 return requests. Therefore, there are uncertain areas that need further explanations. 
-
-	I would like to know how the Citi bikes are managed. With this respect, I have a couple 
-of questions: Is there any mechanism to track the actual distance each bike runs, regardless of
-the renting hours? Do all bikes have a regular maintenance, for instance, brakes, chain, tires, 
-and so forth. Since bikes are worn out once they are used, maintenance is important for the safety
+I would like to know how the Citi bikes are managed. With this respect, I have a couple of
+questions: Is there any mechanism to track the actual distance each bike runs, regardless of the
+renting hours? Do all bikes have a regular maintenance, for instance, brakes, chain, tires, and
+so forth. Since bikes are worn out once they are used, maintenance is important for the safety 
 of everyone in public.
-
